@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v5.9.18, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.9.18, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="https://r.mobirisesite.com/669058/assets/images/shop3-h_m0n335aw.jpg" type="image/x-icon">
+  <meta name="description" content="">
+  
+  
+  <title>Home</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=LzfKMX"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=LzfKMX" type="text/css">
+
+  
+  
+  
+</head>
+<body>
+  
+  <section data-bs-version="5.1" class="menu menu5 cid-unku0Mtswn" once="menu" id="menu05-0">
+	
+
+	<nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+		<div class="container">
+			<div class="navbar-brand">
+				<span class="navbar-logo">
+					<a href="https://mobiri.se">
+						<img src="https://r.mobirisesite.com/669058/assets/images/shop3-h_m0n335aw.jpg" alt="Mobirise Website Builder" style="height: 4.3rem;">
+					</a>
+				</span>
+				
+			</div>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<div class="hamburger">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
+						<a class="nav-link link text-primary display-4" href="https://mobiri.se">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link link text-primary display-4" href="https://mobiri.se" aria-expanded="false">Product</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link link text-primary display-4" href="https://mobiri.se">Contacts</a>
+					</li></ul>
+				<div class="navbar-buttons mbr-section-btn"><a class="btn btn-primary-outline display-7" href="https://mobiri.se"> Start Now!</a></div>
+			</div>
+		</div>
+	</nav>
+</section>
+
+<section data-bs-version="5.1" class="header1 cid-unku8HIzE8" id="header01-1">
+	
+
+	
+	
+
+	<div class="container-fluid">
+		<div class="row justify-content-center">
+			<div class="col-12 col-md-12 col-lg-6 image-wrapper">
+				<img class="w-100" src="https://r.mobirisesite.com/669058/assets/images/g838fbdeefe4c28e56a2679d92e2c-h_m0n4j3g5.jpg" alt="Mobirise Website Builder">
+			</div>
+			<div class="col-12 col-lg col-md-12">
+				<div class="text-wrapper align-left">
+					<h1 class="mbr-section-title mbr-fonts-style mb-4 display-5"><strong>One-Stop Solution for Seemless Online Training and Certifications</strong></h1>
+					<p class="mbr-text mbr-fonts-style mb-4 display-7">Streamlines training with easy registration, secure payments, user verification, and live video conferencing - All in one platform.</p>
+					<div class="mbr-section-btn mt-3"><a class="btn btn-primary display-7" href="https://mobiri.se">Learn More</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section data-bs-version="5.1" class="features027 cid-unmIMCUIwJ" id="features027-c">
+	
+
+	
+	
+
+	<div class="container">
+		
+
+
+		<div class="row justify-content-center  blockContent">
+			<div class="col-12 col-lg">
+				
+				<div class="item features-without-image col-12 col-md-12 col-lg-12">
+					<div class="item-wrapper">
+						<div class="item-content">
+							
+							<h4 class="card-title mbr-fonts-style display-5"><strong>Comprehensive Training Program</strong></h4>
+							<p class="card-text mbr-fonts-style mt-0 mb-0 display-7">Unlock participants' potential with your comprehensive online training, dashboard, offering in-depth courses and resources to enhance their skills and knowledge.</p>
+							
+						</div>
+
+					</div>
+				</div>
+				<div class="item features-without-image col-12 col-md-12 col-lg-12">
+					<div class="item-wrapper">
+						<div class="item-content">
+							
+							<h4 class="card-title mbr-fonts-style display-5"><strong>Training Certifications</strong></h4>
+							<p class="card-text mbr-fonts-style mt-0 mb-0 display-7">Let the participants earn recognized certifications with your training programs, validating their skills and boosting career prospects.
+							</p>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-lg-5">
+				<div class="image-wrapper">
+					<img class="w-100" src="https://r.mobirisesite.com/669058/assets/images/gbb73a3fe7b30a3c21cb9507c439b-h_m0n798sy.jpg" alt="Mobirise Website Builder">
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section data-bs-version="5.1" class="features017 mbr-embla cid-unmxUkXv3q" id="features017-b">
+	
+	
+	<div class="position-relative">
+		<div class="container-fluid">
+			<div class="row justify-content-center">
+				<div class="col-12 content-head">
+					<div class="mbr-section-head mb-5">
+						<h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-5"><strong>Solutions for Your Training Needs!</strong></h4>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="embla" data-skip-snaps="true" data-align="center" data-contain-scroll="trimSnaps" data-loop="true" data-auto-play-interval="4" data-draggable="true">
+			<div class="embla__viewport container-fluid">
+				<div class="embla__container">
+					<div class="embla__slide slider-image item active" style="margin-left: 1rem; margin-right: 1rem;">
+						<div class="slide-content">
+							<div class="item-img">
+								<div class="item-wrapper">
+									<img src="https://r.mobirisesite.com/669058/assets/images/g29ece7c7cc9fed6c673390911a62-h_m0n5rrha.jpg" alt="Mobirise Website Builder" title="" data-slide-to="1" data-bs-slide-to="1">
+								</div>
+							</div>
+							<div class="item-content">
+								<h5 class="item-title mbr-fonts-style display-7">
+									<strong>Secure Payment</strong></h5>
+								
+								<p class="mbr-text mbr-fonts-style mt-3 display-7">
+									Complete transactions with confidence using our secure payment system, designed for safety and reliability.
+								</p>
+							</div>
+
+							
+						</div>
+					</div>
+					<div class="embla__slide slider-image item" style="margin-left: 1rem; margin-right: 1rem;">
+						<div class="slide-content">
+							<div class="item-img">
+								<div class="item-wrapper">
+									<img src="https://r.mobirisesite.com/669058/assets/images/gd58cbb70dd59bf50733ef25a44ad-h_m0n6d5yq.jpg" alt="Mobirise Website Builder" title="" data-slide-to="2" data-bs-slide-to="2">
+								</div>
+							</div>
+							<div class="item-content">
+								<h5 class="item-title mbr-fonts-style display-7"><strong>Automated User Verification</strong></h5>
+								
+								<p class="mbr-text mbr-fonts-style mt-3 display-7">
+									Ensure security with our automated user verification process, providing quick and reliable identity checks.
+								</p>
+							</div>
+							
+						</div>
+					</div>
+					<div class="embla__slide slider-image item" style="margin-left: 1rem; margin-right: 1rem;">
+						<div class="slide-content">
+							<div class="item-img">
+								<div class="item-wrapper">
+									<img src="https://r.mobirisesite.com/669058/assets/images/g7eedd76aa4a34ef911e3fbc6b968-h_m0n6jnjh.jpg" alt="Mobirise Website Builder" title="" data-slide-to="3" data-bs-slide-to="3">
+								</div>
+							</div>
+							<div class="item-content">
+								<h5 class="item-title mbr-fonts-style display-7">
+									<strong>Live Video Conferencing</strong></h5>
+								
+								<p class="mbr-text mbr-fonts-style mt-3 display-7">
+									Host large-scale events effortlessly with our live conferencing platform, supporting up to 15,000 participants.
+								</p>
+							</div>
+							
+						</div>
+					</div>
+					
+					<div class="embla__slide slider-image item" style="margin-left: 1rem; margin-right: 1rem;">
+						<div class="slide-content">
+							<div class="item-img">
+								<div class="item-wrapper">
+									<img src="https://r.mobirisesite.com/669058/assets/images/g967fabb2e94965635d8229a7a928-h_m0n6maqb.jpg" alt="Mobirise Website Builder" title="" data-slide-to="5" data-bs-slide-to="5">
+								</div>
+							</div>
+							<div class="item-content">
+								<h5 class="item-title mbr-fonts-style display-7"><strong>Effortless&nbsp; Registration</strong></h5>
+								
+								<p class="mbr-text mbr-fonts-style mt-3 display-7">
+									Experience hassle-free onboarding with our effortless user registration process—quick, simple, and designed to get you started in no time.
+								</p>
+							</div>
+							
+						</div>
+					</div>
+					
+					
+					
+				</div>
+			</div>
+			<button class="embla__button embla__button--prev">
+				<span class="mobi-mbri mobi-mbri-arrow-prev mbr-iconfont" aria-hidden="true"></span>
+				<span class="sr-only visually-hidden visually-hidden visually-hidden">Previous</span>
+			</button>
+			<button class="embla__button embla__button--next">
+				<span class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont" aria-hidden="true"></span>
+				<span class="sr-only visually-hidden visually-hidden visually-hidden">Next</span>
+			</button>
+		</div>
+	</div>
+</section>
+
+<section data-bs-version="5.1" class="form1 cid-unkvo9ZMDh" id="form01-4">
+	
+
+	
+
+	<div class="container">
+		<div class="row content-wrapper justify-content-center">
+			<div class="col-lg-7 mbr-form">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+					<h5 class="mbr-section-title mbr-fonts-style mb-5 display-5">
+						<strong>Leave Your Email for Exclusive Offer and Updates</strong></h5>
+				</div>
+
+				<div class="text-wrapper align-left" data-form-type="formoid">
+					<!--Formbuilder Form-->
+					<form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="KGbBZTfAs6ZDq/E3znCMSQKC/b+BhG2RuYjF4HarkW+Ve8bTKM7ix2GowumfunHdrk3HvFhHWlMkoi5hKcFv+idDWLv4ntMBzMXvI+1pLeqzCU7iDHk5cAvQzYuLK3Ef">
+						<div class="row">
+							<div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
+							<div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
+								Oops...! some problem!
+							</div>
+						</div>
+						<div class="dragArea row">
+							<div data-for="email" class="col-lg-6 col-md-6 col-sm-12 form-group">
+								<input type="email" name="email" placeholder="email" data-form-field="email" class="form-control display-7" value="" id="email-form01-4">
+							</div>
+							<div class="col-auto mbr-section-btn"><button type="submit" class="w-100 w-100 w-100 w-100 w-100 w-100 btn btn-primary display-7">Get Started</button></div>
+						</div>
+					</form>
+					<!--Formbuilder Form-->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section data-bs-version="5.1" class="footer3 cid-unmNYAMwPU" once="footers" id="footer03-e">
+
+        
+
+    
+
+    <div class="container">
+        <div class="row">
+            
+
+            
+            <div class="col-12 mt-4">
+                <p class="mbr-fonts-style copyright display-7">
+                    © Copyright 2030 Mobirise - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/3409345" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">&#8204;</p><a style="z-index:1" href="https://mobirise.com/offline-website-builder.html">Offline Website Builder</a></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/embla/embla.min.js"></script>  <script src="assets/embla/script.js"></script>  <script src="assets/theme/js/script.js"></script>  <script src="assets/formoid/formoid.min.js"></script>  
+  
+  
+</body>
+</html>
